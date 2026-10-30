@@ -1,33 +1,37 @@
 [
   {
     "id": "serie-b",
-    "familia": "Serie B / ISB",
+    "familia": "Series B ",
     "imagen_familia": "img/serie-b.jpg",
     "modelos": [
       {
-        "nombre": "ISB 6.7",
+        "nombre": "ISB",
         "imagen": "img/isb67.jpg",
         "especificaciones": {
-          "Cilindrada": "6.7 Litros",
-          "Configuración": "6 cilindros en línea",
+          "Cilindrada": "ISB4.5, ISB5.9, ISB6.2, ISB6.7, ISB6.7 G",
           "Potencia": "200 - 325 hp",
           "Torque": "520 - 750 lb-ft",
-          "Sistema de Combustible": "Common Rail High Pressure",
-          "Aplicaciones": "Camiones medianos, autobuses urbanos"
+          "Aplicaciones": "On-highway"
         }
       },
       {
-        "nombre": "B4.5",
+        "nombre": "B",
         "imagen": "img/b45.jpg",
         "especificaciones": {
-          "Cilindrada": "4.5 Litros",
-          "Configuración": "4 cilindros en línea",
+          "Cilindrada": "B3.3, B3.9, B4.5, B5.9, B6.7",
           "Potencia": "150 - 200 hp",
           "Torque": "450 - 550 lb-ft",
-          "Sistema de Combustible": "Direct Injection",
-          "Aplicaciones": "Maquinaria agrícola, construcción"
+          "Aplicaciones": "Medium/Industrial"
         }
-      }
+      },
+      {
+        "nombre": "QSB",
+        "imagen": "img/qsb.jpg",
+        "especificaciones": {
+          "Cilindrada": "QSB3.3, QSB4.5, QSB5.9, QSB6.7",
+          "Potencia": "150 - 200 hp",
+          "Torque": "450 - 550 lb-ft",
+          "Aplicaciones": "Off-highway / industrial / marine"
     ]
   },
   {
