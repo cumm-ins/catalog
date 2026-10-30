@@ -1,1 +1,52 @@
-
+[
+  {
+    "id": "serie-b",
+    "familia": "Serie B / ISB",
+    "imagen_familia": "img/serie-b.jpg",
+    "modelos": [
+      {
+        "nombre": "ISB 6.7",
+        "imagen": "img/isb67.jpg",
+        "especificaciones": {
+          "Cilindrada": "6.7 Litros",
+          "Configuración": "6 cilindros en línea",
+          "Potencia": "200 - 325 hp",
+          "Torque": "520 - 750 lb-ft",
+          "Sistema de Combustible": "Common Rail High Pressure",
+          "Aplicaciones": "Camiones medianos, autobuses urbanos"
+        }
+      },
+      {
+        "nombre": "B4.5",
+        "imagen": "img/b45.jpg",
+        "especificaciones": {
+          "Cilindrada": "4.5 Litros",
+          "Configuración": "4 cilindros en línea",
+          "Potencia": "150 - 200 hp",
+          "Torque": "450 - 550 lb-ft",
+          "Sistema de Combustible": "Direct Injection",
+          "Aplicaciones": "Maquinaria agrícola, construcción"
+        }
+      }
+    ]
+  },
+  {
+    "id": "serie-x",
+    "familia": "Serie X / ISX",
+    "imagen_familia": "img/serie-x.jpg",
+    "modelos": [
+      {
+        "nombre": "X15 Performance",
+        "imagen": "img/x15.jpg",
+        "especificaciones": {
+          "Cilindrada": "14.9 Litros",
+          "Configuración": "6 cilindros en línea",
+          "Potencia": "485 - 605 hp",
+          "Torque": "1650 - 2050 lb-ft",
+          "Sistema de Combustible": "XPI Fuel System",
+          "Aplicaciones": "Tractocamiones de larga distancia"
+        }
+      }
+    ]
+  }
+]
